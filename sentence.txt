@@ -1,0 +1,26 @@
+Chữ A ; Cách thực hiện * Nắm chặt bàn tay, chỉ để ngón cái dựng đứng.
+Chữ B cách thực hiện ; Duỗi thẳng 4 ngón tay và khép lại, ngón cái gập vào lòng bàn tay
+Chữ C cách thực hiện ; Uốn cong bàn tay tạo hình chữ C
+Chữ D cách thực hiện ; Ngón trỏ duỗi thẳng, các ngón khác khép lại chạm ngón cái
+Chữ E cách thực hiện ; Tất cả các ngón tay khép lại, chạm vào lòng bàn tay
+Chữ F cách thực hiện ; Ngón trỏ và ngón cái chạm nhau tạo hình tròn, ba ngón còn lại duỗi thẳng
+Chữ G cách thực hiện ; Ngón trỏ và ngón cái duỗi ra, các ngón khác khép lại
+Chữ H cách thực hiện ; Ngón trỏ và ngón giữa duỗi thẳng và song song
+Chữ I cách thực hiện ; Chỉ ngón út duỗi thẳng, các ngón khác khép lại
+Chữ J cách thực hiện ; Tương tự chữ I nhưng có chuyển động cong
+Chữ K cách thực hiện ; Ngón trỏ và ngón giữa duỗi thẳng tạo hình chữ V, ngón cái đặt giữa
+Chữ L cách thực hiện ; Ngón trỏ và ngón cái tạo góc vuông
+Chữ M cách thực hiện ; Ba ngón tay đầu khép lại, ngón cái đặt dưới
+Chữ N cách thực hiện ; Hai ngón tay đầu khép lại, ngón cái đặt dưới
+Chữ O cách thực hiện ; Tất cả các ngón tay tạo hình tròn
+Chữ P cách thực hiện ; Tương tự chữ K nhưng hướng xuống dưới
+Chữ Q cách thực hiện ; Tương tự chữ G nhưng hướng xuống dưới
+Chữ R cách thực hiện ; Ngón trỏ và ngón giữa chéo nhau
+Chữ S cách thực hiện ; Nắm tay, ngón cái đặt trên các ngón khác
+Chữ T cách thực hiện ; Ngón cái đặt giữa ngón trỏ và ngón giữa
+Chữ U cách thực hiện ; Ngón trỏ và ngón giữa duỗi thẳng và khép lại
+Chữ V cách thực hiện ; Ngón trỏ và ngón giữa duỗi thẳng tách ra tạo hình chữ V
+Chữ W cách thực hiện ; Ba ngón đầu duỗi thẳng tách ra
+Chữ X cách thực hiện ; Ngón trỏ cong như móc câu
+Chữ Y cách thực hiện ; Ngón cái và ngón út duỗi ra, các ngón khác khép lại
+Chữ Z cách thực hiện ; Ngón trỏ duỗi thẳng và vẽ chữ Z trong không khí
