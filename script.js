@@ -2,6 +2,7 @@ let video = null;
 let canvas = null;
 let cameraResultEl = null;
 let stream = null;
+let capturedImageData = null;
 
 // Gán DOM sau khi toàn bộ trang đã load
 window.addEventListener('DOMContentLoaded', () => {
@@ -1075,7 +1076,7 @@ function showCurrentFlashCard() {
     const counter = document.getElementById('card-counter');
     counter.textContent = `${appData.flashcardIndex + 1}/${appData.flashcardDeck.length}`;
     
-    const progress = ((appData.flashcardIndex + 1) / appData.flashcarecentActivitiesrdDeck.length) * 100;
+    const progress = ((appData.flashcardIndex + 1) / appData.flashcardDeck.length) * 100;
     const progressBar = document.getElementById('flashcard-progress');
     progressBar.style.width = `${progress}%`;
     progressBar.textContent = `${Math.round(progress)}%`;
@@ -1274,6 +1275,18 @@ function switchDictionaryMode(mode) {
         initCamera();
     } else {
         stopCamera();
+    }
+}
+
+// Hàm dừng camera
+function stopCamera() {
+    if (stream) {
+        const tracks = stream.getTracks();
+        tracks.forEach(track => track.stop());
+        stream = null;
+    }
+    if (video) {
+        video.srcObject = null;
     }
 }
 
